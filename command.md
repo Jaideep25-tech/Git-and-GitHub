@@ -39,6 +39,7 @@ GITHUB
 
 DELETING COMMIT
 (don't forget to store all deleting commit id)
+      
 22. [ 
       git log --oneline -> copy commit id of a commit after which all the commits should be deleted
       git reset <paste-that-id> -> delete all commits after the provided commit id
@@ -48,6 +49,7 @@ DELETING COMMIT
     
 RESTORE COMMIT
 (only be done if that commit id is present)
+      
 23. [ 
       git cherry-pick <deleted-commit-id> -> restore all deleted commits before this commit
       git log --oneline -> to check if commits are restored
@@ -56,6 +58,7 @@ RESTORE COMMIT
 
 SYNC GITHUB FORK
 (only if remote repo is forked)
+      
 24. [
       git remote -v -> show only forked repo
       git remote add origin <https-link-of-main-repo> -> add main repo as upstream
