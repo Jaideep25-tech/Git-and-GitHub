@@ -22,9 +22,6 @@
       - [Retro 😎](#retro-)
   - [Tools](#tools)
   - [Articles](#articles)
-  - [Video Tutorials](#tutorials)
-  - [Contribute](#contribute)
-  - [License](#license)
 
 
 ## Categories
