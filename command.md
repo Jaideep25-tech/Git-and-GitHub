@@ -1,3 +1,5 @@
+![](https://github.com/Jaideep25-tech/Git-and-GitHub/blob/main/assets/git%20commands.gif)
+
 DIRECTORY
 cd </file/path/code> -> change directory to a project
 
